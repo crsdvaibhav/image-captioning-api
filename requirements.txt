@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+transformers
+git+https://github.com/openai/CLIP.git
